@@ -1,0 +1,143 @@
+.nav-head {
+  background-color: whitesmoke;
+}
+
+.nav-link {
+  color: #555;
+  text-transform: uppercase;
+}
+
+.home {
+  background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url(../img/home-bg.jpg) center top;
+}
+
+.home h2 {
+  color: white;
+  text-transform: capitalize;
+}
+
+.home h4 {
+  color: white;
+  text-transform: capitalize;
+}
+
+.btm {
+  margin-top: 30px;
+  background-color: yellowgreen;
+  color: white;
+  border-radius: 3px;
+  border: none;
+  padding: 5px 15px;
+  transition: 0.3 ease;
+}
+
+.btm:hover {
+  background-color: white;
+  color: yellowgreen;
+}
+
+.work {
+  background-color: whitesmoke;
+}
+
+.work h2 {
+  color: #555;
+  text-transform: uppercase;
+}
+
+.work h5 {
+  margin-top: 20px;
+  color: slategrey;
+  font-size: 20px;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+
+.discover {
+  background-color: whitesmoke;
+}
+
+.discover-content-one {
+  background-color: skyblue;
+  padding: 30px;
+}
+
+.discover-content-one h6 {
+  color: black;
+}
+
+.btm-one {
+  margin-top: 5px;
+  background-color: lightblue;
+  color: black;
+  border-radius: 3px;
+  border: none;
+  padding: 5px 15px;
+  transition: 0.3 ease;
+}
+
+.discover-content-two {
+  background-color: yellowgreen;
+  padding: 30px;
+}
+.btm-one:hover {
+  background-color: white;
+  color: blue;
+}
+
+.blog h2 {
+  color: #555;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.blog p {
+  text-align: left;
+}
+
+.btm-three {
+  margin-top: 50px;
+  background-color: whitesmoke;
+  color: slategrey;
+  border-radius: 3px;
+  border: none;
+  padding: 10px 15px;
+  transition: 0.3 ease;
+}
+.btm-three:hover {
+  background-color: slategrey;
+  color: white;
+}
+
+.card-mine {
+  position: relative;
+}
+
+.btn-cstm {
+  position: absolute;
+  top: 1%;
+  left: 49%;
+}
+
+.card h5 {
+  margin-top: 25px;
+}
+
+.card-mine-content h6 {
+  font-size: 15px;
+  text-align: left;
+}
+.card-mine-content h4 {
+  font-size: 15px;
+  text-align: left;
+}
+
+.find {
+  background-color: whitesmoke;
+}
+
+.footer {
+  background-color: lightgrey;
+  padding: 35px;
+}
